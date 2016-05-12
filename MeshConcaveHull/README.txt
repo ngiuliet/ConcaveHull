@@ -1,0 +1,3 @@
+Calculates a 2D concave hull for a 2D mesh using the technique described in the paper: "A split and merge procedure for polygonal border detection of dot pattern" by Gautam Garaia and B.B. Chaudhurib.
+
+A couple of example objects are in the Sandbox1 scene ("C", "S", and "Notch"). Leave one enabled and press play in order to calculate and render the concave hull, or you can press "Build Hull Collider" on the MeshHull inspector of the object. 
